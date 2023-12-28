@@ -1,4 +1,4 @@
-# OIBSIP
-I have completed my Oasis Infobyte internship tasks of LEVEL 1.
-In which I had made Landing page , Portfolio and Temperature converter.
-Using HTML, CSS and Javascript.
+#Web Projects
+I have made small web projects using HTML, CSS, and Javascript.
+In which I made a Landing page, Portfolio, and Temperature converter.
+
